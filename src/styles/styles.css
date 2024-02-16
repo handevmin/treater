@@ -1,0 +1,19 @@
+.text-decoration-none {
+    /* Set your desired custom styles here to remove default styles */
+    text-decoration: none; /* For removing the underline */
+    /* Add more custom styles as needed */
+}
+a {
+    text-decoration: none;
+    color: #000;
+  }
+
+.red-border{
+    border: 1px solid #f00;
+}
+p{
+    color:#989898
+}
+p.sub_text{
+    font-size: smaller;
+}
